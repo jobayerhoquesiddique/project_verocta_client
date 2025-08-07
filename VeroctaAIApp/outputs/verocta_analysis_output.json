@@ -1,0 +1,56 @@
+{
+  "spend_score": 48,
+  "score_label": "Needs Improvement",
+  "score_color": "Red",
+  "tier_info": {
+    "color": "Red",
+    "tier": "Needs Improvement",
+    "green_reward_eligible": false,
+    "description": "Significant opportunities for financial optimization"
+  },
+  "score_breakdown": {
+    "frequency_score": 0,
+    "category_diversity": 20.0,
+    "budget_adherence": 57.03,
+    "redundancy_detection": 100,
+    "spike_detection": 0,
+    "waste_ratio": 100,
+    "final_score": 48,
+    "individual_scores": {
+      "frequency_score": 0,
+      "category_diversity": 20.0,
+      "budget_adherence": 57.03100836986847,
+      "redundancy_detection": 100,
+      "spike_detection": 0,
+      "waste_ratio": 100
+    }
+  },
+  "suggestions": [
+    {
+      "priority": "High",
+      "text": "Review office rent payment of $2,800.00 for potential renegotiation or relocation to a more cost-effective space, as it constitutes 34.6% of total spending."
+    },
+    {
+      "priority": "Medium",
+      "text": "Consolidate equipment and supplies purchases with Dell and Staples to negotiate a bulk discount, as combined spending is $1,324.55 (16.3% of total)."
+    },
+    {
+      "priority": "Low",
+      "text": "Switch Internet service from Spectrum to an annual billing cycle to save approximately $108 annually, assuming a typical 10% discount."
+    }
+  ],
+  "total_transactions": 25,
+  "total_amount": 8097.64,
+  "enhanced_metrics": {
+    "total_transactions": 25,
+    "total_amount": 8097.64,
+    "median_amount": 125.45,
+    "mean_amount": 323.9056,
+    "unique_categories": 1,
+    "unique_vendors": 25
+  },
+  "filename": "wave.csv",
+  "green_reward_eligible": false,
+  "company_name": "Verocta",
+  "logo_path": "uploads/logo_20250806_212700_verocta.jpg"
+}

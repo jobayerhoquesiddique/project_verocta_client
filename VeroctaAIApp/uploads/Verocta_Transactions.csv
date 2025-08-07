@@ -1,0 +1,51 @@
+Transaction Type,Description,Amount,Date
+Income,Client Payment,"$15,000.00",2024-01-11
+Income,Client Payment,"$25,000.00",2024-01-12
+Income,Client Payment,"$18,000.00",2024-01-15
+Income,Client Payment,"$25,000.00",2024-01-24
+Income,Client Payment,"$25,000.00",2024-02-01
+Expense,Marketing,"$1,500.00",2024-02-07
+Income,Client Payment,"$20,000.00",2024-02-16
+Expense,Building Fees,$800.00,2024-02-18
+Expense,Employee Salaries,"$10,000.00",2024-02-26
+Income,Client Payment,"$15,000.00",2024-03-13
+Expense,Software Subscription - Accounting,$150.00,2024-04-11
+Expense,Marketing,"$1,500.00",2024-04-15
+Expense,Power,$600.00,2024-04-21
+Income,Client Payment,"$20,000.00",2024-05-22
+Income,Client Payment,"$20,000.00",2024-05-27
+Expense,Office Supplies,$250.00,2024-05-28
+Income,Client Payment,"$15,000.00",2024-06-05
+Income,Client Payment,"$18,000.00",2024-06-11
+Expense,Insurance,$600.00,2024-06-18
+Expense,Power,$600.00,2024-06-22
+Income,Client Payment,"$25,000.00",2024-06-22
+Expense,Employee Salaries,"$10,000.00",2024-06-24
+Income,Client Payment,"$15,000.00",2024-06-26
+Income,Client Payment,"$18,000.00",2024-07-17
+Expense,Software Subscription - CRM,$200.00,2024-08-01
+Expense,Gas,$150.00,2024-08-05
+Income,Client Payment,"$25,000.00",2024-08-13
+Income,Client Payment,"$20,000.00",2024-08-16
+Income,Client Payment,"$15,000.00",2024-08-16
+Expense,Legal & Accounting Fees,$500.00,2024-08-25
+Expense,Building Fees,$800.00,2024-08-26
+Expense,Insurance,$600.00,2024-09-07
+Income,Client Payment,"$18,000.00",2024-09-13
+Expense,Payment Processing Fees,$300.00,2024-09-14
+Expense,Gas,$150.00,2024-09-23
+Expense,Taxes,"$1,200.00",2024-09-24
+Income,Client Payment,"$25,000.00",2024-09-26
+Expense,Software Subscription - Accounting,$150.00,2024-09-28
+Expense,Software Subscription - Accounting,$150.00,2024-10-08
+Income,Client Payment,"$18,000.00",2024-10-15
+Income,Client Payment,"$18,000.00",2024-10-24
+Expense,Payment Processing Fees,$300.00,2024-10-31
+Expense,Office Supplies,$250.00,2024-11-03
+Expense,Marketing,"$1,500.00",2024-11-09
+Expense,Rent,"$3,500.00",2024-11-18
+Income,Client Payment,"$15,000.00",2024-12-15
+Income,Client Payment,"$25,000.00",2024-12-18
+Expense,Payment Processing Fees,$300.00,2024-12-24
+Income,Client Payment,"$20,000.00",2024-12-27
+Income,Client Payment,"$15,000.00",2024-12-27
